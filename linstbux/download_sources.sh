@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #Download-Script for linSTBux by stephanw
 
 echo "Downloading sources..."
