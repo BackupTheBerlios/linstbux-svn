@@ -9,7 +9,7 @@ cd src
 cat << END
 http://www.kernel.org/pub/linux/kernel/v2.6/linux-2.6.10.tar.bz2
 ftp://ftp.uk.linux.org/pub/people/dwmw2/mtd/cvs/mtd-snapshot-20050120.tar.bz2
-http://ftp.gnu.org/gnu/glibc/glibc-2.3.3.tar.gz
+http://www.uclibc.org/downloads/snapshots/uClibc-snapshot.tar.bz2
 http://www.busybox.net/downloads/snapshots/busybox-snapshot.tar.bz2
 http://www.bluez.org/redirect.php?url=http%3A%2F%2Fbluez.sf.net%2Fdownload%2Fbluez-libs-2.14.tar.gz
 http://www.bluez.org/redirect.php?url=http%3A%2F%2Fbluez.sf.net%2Fdownload%2Fbluez-utils-2.14.tar.gz
