@@ -28,6 +28,7 @@ cat << END
 linux-2.6.10.tar.bz2
 mtd-snapshot-20050120.tar.bz2
 busybox-snapshot.tar.bz2
+uClibc-snapshot.tar.bz2
 END
 } | while read bz2
 do
@@ -37,7 +38,6 @@ done
 
 {
 cat << END
-glibc-2.3.3.tar.gz
 bluez-libs-2.14.tar.gz
 bluez-utils-2.14.tar.gz
 END
